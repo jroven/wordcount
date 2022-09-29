@@ -1,0 +1,2 @@
+# wordcount
+This program takes in three inputs: a text file containing a large amount of English-structured content, a text file containing "common" words, and an integer representing the desired number of words in the output. The program will output the top n words (from the user-given integer input) in descending order that recur in the given text file, excluding any words that exist in the common words file.
